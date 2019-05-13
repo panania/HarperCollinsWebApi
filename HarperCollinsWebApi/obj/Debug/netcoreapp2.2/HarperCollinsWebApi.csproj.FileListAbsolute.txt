@@ -1,0 +1,13 @@
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\bin\Debug\netcoreapp2.2\HarperCollinsWebApi.deps.json
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\bin\Debug\netcoreapp2.2\HarperCollinsWebApi.runtimeconfig.json
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\bin\Debug\netcoreapp2.2\HarperCollinsWebApi.runtimeconfig.dev.json
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\bin\Debug\netcoreapp2.2\HarperCollinsWebApi.dll
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\bin\Debug\netcoreapp2.2\HarperCollinsWebApi.pdb
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\obj\Debug\netcoreapp2.2\HarperCollinsWebApi.csproj.CoreCompileInputs.cache
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\obj\Debug\netcoreapp2.2\HarperCollinsWebApi.RazorAssemblyInfo.cache
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\obj\Debug\netcoreapp2.2\HarperCollinsWebApi.RazorAssemblyInfo.cs
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\obj\Debug\netcoreapp2.2\HarperCollinsWebApi.AssemblyInfoInputs.cache
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\obj\Debug\netcoreapp2.2\HarperCollinsWebApi.AssemblyInfo.cs
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\obj\Debug\netcoreapp2.2\HarperCollinsWebApi.RazorTargetAssemblyInfo.cache
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\obj\Debug\netcoreapp2.2\HarperCollinsWebApi.dll
+C:\workdir\git-box\HarperCollinsWebApi\HarperCollinsWebApi\obj\Debug\netcoreapp2.2\HarperCollinsWebApi.pdb
