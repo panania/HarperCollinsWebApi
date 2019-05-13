@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="HarperCollinsWebApi20190411114149" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\peter\\Source\\repos\\HarperCollinsWebApi\\HarperCollinsWebApi\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
   </parameter>
-=======
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="HarperCollinsWebApi20190411114149" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\peter\\Source\\repos\\HarperCollinsWebApi\\HarperCollinsWebApi\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
-  </parameter>
->>>>>>> 170412e4236f2b2d23354ca322baa1af1e3afbce
 </parameters>

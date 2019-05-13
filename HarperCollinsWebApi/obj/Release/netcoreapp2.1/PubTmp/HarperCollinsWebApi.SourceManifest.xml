@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
   <IisApp path="C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\PubTmp\Out\" />
-=======
-﻿<?xml version="1.0" encoding="utf-8"?>
-<sitemanifest>
-  <IisApp path="C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\PubTmp\Out\" />
->>>>>>> 170412e4236f2b2d23354ca322baa1af1e3afbce
 </sitemanifest>

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\bin\Release\netcoreapp2.1\HarperCollinsWebApi.deps.json
 C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\bin\Release\netcoreapp2.1\HarperCollinsWebApi.runtimeconfig.json
 C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\bin\Release\netcoreapp2.1\HarperCollinsWebApi.runtimeconfig.dev.json
@@ -13,19 +12,3 @@ C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\
 C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.RazorTargetAssemblyInfo.cache
 C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.dll
 C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.pdb
-=======
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\bin\Release\netcoreapp2.1\HarperCollinsWebApi.deps.json
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\bin\Release\netcoreapp2.1\HarperCollinsWebApi.runtimeconfig.json
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\bin\Release\netcoreapp2.1\HarperCollinsWebApi.runtimeconfig.dev.json
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\bin\Release\netcoreapp2.1\HarperCollinsWebApi.dll
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\bin\Release\netcoreapp2.1\HarperCollinsWebApi.pdb
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.csprojAssemblyReference.cache
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.csproj.CoreCompileInputs.cache
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.RazorAssemblyInfo.cache
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.RazorAssemblyInfo.cs
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.AssemblyInfoInputs.cache
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.AssemblyInfo.cs
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.RazorTargetAssemblyInfo.cache
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.dll
-C:\Users\peter\Source\repos\HarperCollinsWebApi\HarperCollinsWebApi\obj\Release\netcoreapp2.1\HarperCollinsWebApi.pdb
->>>>>>> 170412e4236f2b2d23354ca322baa1af1e3afbce
