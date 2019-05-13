@@ -1,0 +1,37 @@
+<<<<<<< HEAD
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.deps.json
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.runtimeconfig.json
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.runtimeconfig.dev.json
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.pdb
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\HarperCollinsWebApi.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\HarperCollinsWebApi.pdb
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csprojAssemblyReference.cache
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfoInputs.cache
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfo.cs
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CopyComplete
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.pdb
+=======
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.deps.json
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.runtimeconfig.json
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.runtimeconfig.dev.json
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.pdb
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\HarperCollinsWebApi.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\bin\Debug\netcoreapp2.1\HarperCollinsWebApi.pdb
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csprojAssemblyReference.cache
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfoInputs.cache
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfo.cs
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CopyComplete
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.dll
+C:\Users\peter\Source\repos\HarperCollinsWebApi\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.pdb
+>>>>>>> 170412e4236f2b2d23354ca322baa1af1e3afbce

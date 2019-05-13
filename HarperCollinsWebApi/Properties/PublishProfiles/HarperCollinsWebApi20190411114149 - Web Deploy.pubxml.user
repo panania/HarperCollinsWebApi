@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPv//qlh6cUSn35IZ2sfLDgAAAAACAAAAAAAQZgAAAAEAACAAAAD3aT+f1FABSXKNtInZ4Hey+gmVMg7ka0B/Gq+N0gGDrwAAAAAOgAAAAAIAACAAAAAloFb5JWac0p0+xqsU/vzoUHOtwAVO+iSYxzNAbg3LAIAAAAAjoIXJRQw8EExQcflXSlOKvyzyEr1pdeuO7HhXPM2TVwbNPpsy1kf8O/dFr5E4CVTZNNF8pjmTxAst54jTdf77C196WGgLjIkkqcMIM/P6OWGGXSJjsZaJZ3tkR55ZaNdfDPyqJNP1R3ZuCUPvBWRprtBCZq6DDyZTRWiWbb/Vs0AAAAASYp6oxxg9EUsOjzQKKzXRjNOYRcPA+poTlaXZp6fjoW7LLpRN4orPaXUFq6XO1GEc/CuH0lJXZABjcanE1EtY</EncryptedPassword>
+  </PropertyGroup>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAPv//qlh6cUSn35IZ2sfLDgAAAAACAAAAAAAQZgAAAAEAACAAAAD3aT+f1FABSXKNtInZ4Hey+gmVMg7ka0B/Gq+N0gGDrwAAAAAOgAAAAAIAACAAAAAloFb5JWac0p0+xqsU/vzoUHOtwAVO+iSYxzNAbg3LAIAAAAAjoIXJRQw8EExQcflXSlOKvyzyEr1pdeuO7HhXPM2TVwbNPpsy1kf8O/dFr5E4CVTZNNF8pjmTxAst54jTdf77C196WGgLjIkkqcMIM/P6OWGGXSJjsZaJZ3tkR55ZaNdfDPyqJNP1R3ZuCUPvBWRprtBCZq6DDyZTRWiWbb/Vs0AAAAASYp6oxxg9EUsOjzQKKzXRjNOYRcPA+poTlaXZp6fjoW7LLpRN4orPaXUFq6XO1GEc/CuH0lJXZABjcanE1EtY</EncryptedPassword>
+  </PropertyGroup>
+>>>>>>> 170412e4236f2b2d23354ca322baa1af1e3afbce
+</Project>
